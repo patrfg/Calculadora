@@ -1,0 +1,14 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Este projeto consiste em uma calculadora simples desenvolvida em JavaScript, juntamente com testes unitários escritos utilizando o Mocha. A ideia é exercitar o uso de testes em um ambiente Node.js, como parte do projeto de estudos no Bootcamp do Mestre QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Patricia Goncalves",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^11.1.0"
+  }
+}
